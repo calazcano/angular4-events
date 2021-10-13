@@ -7,7 +7,7 @@
   "typings": "./esm/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qligier/angular4-events.git"
+    "url": "git+https://github.com/calazcano/angular4-events.git"
   },
   "scripts": {
     "test": "karma start",
