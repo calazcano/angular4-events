@@ -78,7 +78,7 @@
     "karma-sourcemap-loader": "^0.3.8",
     "karma-webpack": "^5.0.0",
     "ts-loader": "9.1",
-    "typescript": "^4.1.5",
+    "typescript": "^4.0.8",
     "webpack": "5.37",
     "webpack-cli": "4.7",
     "webpack-dev-server": "^3.11.2",
