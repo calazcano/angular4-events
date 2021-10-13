@@ -1,5 +1,5 @@
 {
-  "name": "angular4-events",
+  "name": "@calazcano/angular4-events",
   "version": "10.2.5",
   "description": "Events is a publish-subscribe style event system based on sqlProvider/angular2-pubsub",
   "main": "./umd/angular4-events.js",
