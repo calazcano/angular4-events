@@ -1,13 +1,13 @@
 {
   "name": "angular4-events",
-  "version": "11.0.0",
+  "version": "10.2.5",
   "description": "Events is a publish-subscribe style event system based on sqlProvider/angular2-pubsub",
   "main": "./umd/angular4-events.js",
   "module": "./esm/src/index.js",
   "typings": "./esm/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qligier/angular4-events.git"
+    "url": "git+https://github.com/clazcano/angular4-events.git"
   },
   "scripts": {
     "test": "karma start",
@@ -54,19 +54,19 @@
   },
   "homepage": "https://github.com/qligier/angular4-events#readme",
   "peerDependencies": {
-    "@angular/forms": "~11.2.13",
+    "@angular/forms": "~10.2.5",
     "rxjs": "~6.6.0"
   },
   "dependencies": {
-    "@angular/common": "~11.2.13",
-    "@angular/compiler": "~11.2.13",
-    "@angular/core": "~11.2.13",
-    "@angular/platform-browser": "~11.2.13",
+    "@angular/common": "~10.2.5",
+    "@angular/compiler": "~10.2.5",
+    "@angular/core": "~10.2.5",
+    "@angular/platform-browser": "~10.2.5",
     "rxjs": "~6.6.0"
   },
   "devDependencies": {
-    "@angular/compiler-cli": "~11.2.13",
-    "@angular/platform-browser-dynamic": "~11.2.13",
+    "@angular/compiler-cli": "~10.2.5",
+    "@angular/platform-browser-dynamic": "~10.2.5",
     "@types/es6-shim": "^0.31.41",
     "@types/jasmine": "3.7",
     "@types/node": "^15.0",
