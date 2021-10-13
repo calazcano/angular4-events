@@ -51,7 +51,7 @@ module.exports = {
     path: path.resolve('dist/umd'),
     filename: 'angular4-events.js',
     libraryTarget: 'umd',
-    library: '@calazcano/angular4-events'
+    library: 'angular4-events'
   },
   plugins: [
     new CompressionPlugin({ test: /\.css$|\.html$|\.js$|\.map$/ })
